@@ -1,0 +1,15 @@
+-Install Python
+
+	-Recommended to use Python version 3.7, 3.8 or 3.9
+	-You may use your own Python distribution, e.g., Anaconda that can be downloaded from 
+	 https://www.anaconda.com/products/individual
+
+-Use Python on cloud via Google Colab
+
+	-You can use Python on Google Colab cloud via https://colab.research.google.com 
+
+-Get access to IBM Cloud (optional)
+
+	-Sign-in for IBM Academic Initiative http://www.ibm.com/academic
+	 and register for access to IBM Cloud, or get free lite access to IBM Cloud directly 
+	 at https://cloud.ibm.com/registration
